@@ -1,0 +1,8 @@
+for i in range(len(numbers)):
+    for j in range(len(numbers)):
+        if numbers[i] == numbers[j] and i != j:
+##
+for i in range (len(numbers)):
+    for j in range (len(numbers[i])):
+          if min > numbers[i][j]:
+              min = numbers[i][j]          
